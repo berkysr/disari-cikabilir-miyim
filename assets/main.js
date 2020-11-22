@@ -5,9 +5,6 @@ submitBtn.addEventListener('click', function (e) {
     let place = document.getElementById('place-dropd').value;
     let day = document.getElementById('day-dropd').value;
     let time = document.getElementById('time').value;
-    console.log(day);
-    console.log(place);
-    console.log(time);
     if (place === 'avm' || place === 'cafe-get') {
         if (age >= 21 && age <= 64) {
             if (day === 'week') {
