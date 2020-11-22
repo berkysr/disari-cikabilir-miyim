@@ -1,0 +1,27 @@
+{
+  "name": "disari-cikabilir-miyim",
+  "version": "1.0.0",
+  "description": "A website to determine can you go out in Turkey.",
+  "main": "\u001b[C\u001bassetassets/javascript/main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkysr/disari-cikabilir-miyim"
+  },
+  "keywords": [
+    "javascript",
+    "practice",
+    "responsive"
+  ],
+  "author": "Berk YASAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berkysr/disari-cikabilir-miyim/issues"
+  },
+  "homepage": "https://github.com/berkysr/disari-cikabilir-miyim#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
